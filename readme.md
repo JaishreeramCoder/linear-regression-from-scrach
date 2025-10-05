@@ -7,9 +7,7 @@ This project demonstrates the implementation of Linear Regression from scratch u
 ## Table of Contents
 
 - [Features](#features)
-- [Dependencies](#dependencies)
 - [Dataset](#dataset)
-- [Contributors](#contributors)
 
 ## Features
 
