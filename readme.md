@@ -4,11 +4,6 @@
 
 This project demonstrates the implementation of Linear Regression from scratch using Python without using built-in regression functions from libraries like `sklearn`.
 
-## Table of Contents
-
-- [Features](#features)
-- [Dataset](#dataset)
-
 ## Features
 
 - Implements Linear Regression without using built-in regression models.
